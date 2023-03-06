@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\immutableId2\immutableId2\bin\Debug\net6.0\immutableId2.exe
+C:\Users\meesh\source\repos\immutableId2\immutableId2\bin\Debug\net6.0\immutableId2.deps.json
+C:\Users\meesh\source\repos\immutableId2\immutableId2\bin\Debug\net6.0\immutableId2.runtimeconfig.json
+C:\Users\meesh\source\repos\immutableId2\immutableId2\bin\Debug\net6.0\immutableId2.dll
+C:\Users\meesh\source\repos\immutableId2\immutableId2\bin\Debug\net6.0\immutableId2.pdb
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\immutableId2.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\immutableId2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\immutableId2.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\immutableId2.AssemblyInfo.cs
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\immutableId2.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\immutableId2.dll
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\refint\immutableId2.dll
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\immutableId2.pdb
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\immutableId2.genruntimeconfig.cache
+C:\Users\meesh\source\repos\immutableId2\immutableId2\obj\Debug\net6.0\ref\immutableId2.dll
